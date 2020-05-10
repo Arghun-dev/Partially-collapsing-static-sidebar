@@ -1,0 +1,1 @@
+# partially-collapsing-static-sidebar
